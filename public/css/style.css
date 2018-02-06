@@ -1,0 +1,71 @@
+
+html, body {
+    background-color: #000;
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    line-height: 40px;
+}
+
+.full-height {
+    margin-top: 50px;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+}
+
+.title {
+    font-size: 84px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: inherit;
+
+}
+
+.subtitle {
+    font-family: "Times New Roman";
+    font-size: 32px;
+}
+
+.links > a {
+    color: inherit;
+    padding: 0 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.form-group {
+    width: 10px;
+}
+
+#listing {
+    width: 600px;
+    line-height: 20px;
+}
